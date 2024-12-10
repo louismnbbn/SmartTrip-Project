@@ -1,0 +1,5 @@
+runtime: nodejs18
+instance_class: E2
+env_variables:
+  NODE_ENV: production
+  PORT: 8080

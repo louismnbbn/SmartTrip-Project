@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "805972065726",
+    "project_id": "smarttrip-76503",
+    "storage_bucket": "smarttrip-76503.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805972065726:android:7fda2e19d0721e87854def",
+        "android_client_info": {
+          "package_name": "com.company.smarttrip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805972065726-2h7037u7jkk9mlupf1lvkcjo7marqbhs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKjtFikQfYMQvZ0o3vEfHh1UKt0eDc16U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805972065726-2h7037u7jkk9mlupf1lvkcjo7marqbhs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
