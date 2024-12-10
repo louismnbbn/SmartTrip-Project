@@ -9,6 +9,7 @@ const cors = require('cors');
 app.use(cors());
 
 // Inisialisasi Firebase Admin SDK
+const serviceAccount = require("./smarttrip-76503-firebase-adminsdk-qco4s-258923bae1.json");
 admin.initializeApp({
   credential: admin.credential.cert(serviceAccount),
   databaseURL: "https://smarttrip-76503.firebaseio.com"
